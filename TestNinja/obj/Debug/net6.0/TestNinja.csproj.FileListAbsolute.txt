@@ -1,0 +1,24 @@
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/bin/Debug/net6.0/TestNinja.deps.json
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/bin/Debug/net6.0/TestNinja.dll
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/bin/Debug/net6.0/TestNinja.pdb
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/obj/Debug/net6.0/TestNinja.csproj.AssemblyReference.cache
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/obj/Debug/net6.0/TestNinja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/obj/Debug/net6.0/TestNinja.csproj.CoreCompileInputs.cache
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/obj/Debug/net6.0/TestNinja.dll
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/obj/Debug/net6.0/refint/TestNinja.dll
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/obj/Debug/net6.0/TestNinja.pdb
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/obj/Debug/net6.0/ref/TestNinja.dll
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/bin/Debug/net6.0/TestNinja.runtimeconfig.json
+/Users/zekisahbaz/Desktop/Unit Testing for C# Developers/Traning/SourceCodeWithNet6/TestNinja/obj/Debug/net6.0/TestNinja.genruntimeconfig.cache
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/bin/Debug/net6.0/TestNinja.deps.json
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/bin/Debug/net6.0/TestNinja.runtimeconfig.json
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/bin/Debug/net6.0/TestNinja.dll
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/bin/Debug/net6.0/TestNinja.pdb
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/obj/Debug/net6.0/TestNinja.csproj.AssemblyReference.cache
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/obj/Debug/net6.0/TestNinja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/obj/Debug/net6.0/TestNinja.csproj.CoreCompileInputs.cache
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/obj/Debug/net6.0/TestNinja.dll
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/obj/Debug/net6.0/refint/TestNinja.dll
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/obj/Debug/net6.0/TestNinja.pdb
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/obj/Debug/net6.0/TestNinja.genruntimeconfig.cache
+/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja/obj/Debug/net6.0/ref/TestNinja.dll
