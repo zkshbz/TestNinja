@@ -5,3 +5,12 @@
 .idea/.idea.TestNinja/.idea/vcs.xml
 TestNinja.UnitTest/obj/project.packagespec.json
 TestNinja/obj/project.packagespec.json
+
+
+.vscode/
+TestNinja/obj
+TestNinja/bin
+TestNinja.UnitTest/obj
+TestNinja.UnitTest/bin
+
+*.dll
