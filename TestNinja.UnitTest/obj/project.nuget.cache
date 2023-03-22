@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WMezpUPM+88cDytZeTR8Usxqp0b5n2ZYzSY6qLHGRRi1YsCCZKAYIk858xMvunGnY6EJhHSp1zvpXoIccKWzBw==",
+  "dgSpecHash": "3Kf4TeHi2rIUUfkR1m7Pn+H7ELz+vd5Wj0fFa9zSEXSqFs2auQUy+omhIk4lpTa/M7xy3eZFRPJi33Nes7p7JQ==",
   "success": true,
   "projectFilePath": "/Users/zekisahbaz/Desktop/Codes/Github/TestNinja/TestNinja.UnitTest/TestNinja.UnitTest.csproj",
   "expectedPackageFiles": [
@@ -67,5 +67,12 @@
     "/Users/zekisahbaz/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
     "/Users/zekisahbaz/.nuget/packages/system.windows.extensions/4.7.0/system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://tools.abisteknoloji.com.tr/nugetrepo/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

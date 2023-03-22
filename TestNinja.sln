@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNinja", "TestNinja\TestNinja.csproj", "{8A6BC54D-4CC6-4D59-A2A2-3E92BAA5CCFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNinja.UnitTest", "TestNinja.UnitTest\TestNinja.UnitTest.csproj", "{45208E05-71C2-4F9F-B88C-4FA44E3214D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNinjadont.UnitTest", "TestNinja.UnitTest\TestNinja.UnitTest.csproj", "{45208E05-71C2-4F9F-B88C-4FA44E3214D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNinja.Repeat.UnitTest", "TestNinja.Repeat.UnitTest\TestNinja.Repeat.UnitTest.csproj", "{7D2149F9-CAA7-465E-BAAB-3C22098BD0F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +26,9 @@ Global
 		{45208E05-71C2-4F9F-B88C-4FA44E3214D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45208E05-71C2-4F9F-B88C-4FA44E3214D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45208E05-71C2-4F9F-B88C-4FA44E3214D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2149F9-CAA7-465E-BAAB-3C22098BD0F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2149F9-CAA7-465E-BAAB-3C22098BD0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2149F9-CAA7-465E-BAAB-3C22098BD0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2149F9-CAA7-465E-BAAB-3C22098BD0F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
