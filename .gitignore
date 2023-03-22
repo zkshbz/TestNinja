@@ -7,3 +7,8 @@ TestNinja.UnitTest/obj/project.packagespec.json
 TestNinja/obj/project.packagespec.json
 TestNinja.UnitTest/obj/Debug/net6.0/TestNinja.UnitTest.csproj.AssemblyReference.cache
 *.cache
+
+TestNinja/bin
+TestNinja/obj
+TestNinja.UnitTest/bin
+TestNinja.UnitTest/obj
